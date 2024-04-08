@@ -29,5 +29,6 @@ This dashboard was created by ABHIJEET DUTTA as a personal project to showcase t
 ## Feedback
 
 Your feedback is valuable! If you have any questions, suggestions, or feedback regarding the dashboard, please don't hesitate to get in touch.
+- Feel free to Contact me . Gmail = theabhijeet10@gmail.com
 
 ## THANK YOU
